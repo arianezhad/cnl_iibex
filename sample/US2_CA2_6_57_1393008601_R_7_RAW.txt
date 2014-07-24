@@ -1,0 +1,27 @@
+TCP RAW RECEIVE LOG
+Experiment: 6
+Run: 57
+Local beacon: US2
+Local beacon hostname: usbeacon2.iibex.rg.net
+Local IP: 198.180.150.52
+Local port: 8088
+Local beacon software version: 1.6.0
+Remote beacon: CA2
+Remote IP: 199.60.17.31
+Configured remote port: 8088
+Actual remote port: 8088
+TCP rate mode: voip (continuous rate)
+Start: Fri Feb 21 18:50:01 2014
+Mode: exchange TCP with remote beacon, remote beacon is initiator
+Socket listening time (seconds): 120
+Packets received: yes
+
+"RX sequence number","RX timestamp","RX size","TTL"
+0,1393008661.840093,0,47
+1,1393008661.840098,0,47
+2,1393008661.840361,115,47
+12,1,2
+3,1393008661.860238,115,47
+4,1393008661.880269,115,47
+5,1393008661.900461,115,47
+

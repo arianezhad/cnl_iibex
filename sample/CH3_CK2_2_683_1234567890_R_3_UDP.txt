@@ -1,0 +1,33 @@
+UDP RECEIVE LOG
+Experiment: 2
+Run: 683
+Local beacon: CH3
+Local beacon hostname: nb-10107
+Local IP: 192.33.90.254
+Local beacon software version: 1.5.7
+Configured local port: 8088
+Remote beacon: CK2
+Remote IP: 202.65.43.181
+Configured remote port: 8088
+Actual remote port observed on last packet: 8088
+Start: Mon Sep  2 05:11:01 2013
+Mode: exchange UDP with remote beacon, local beacon is initiator
+Socket listening time (seconds): 240
+Packets received: yes
+
+"Packet number","RX sequence number","TX timestamp","RX timestamp","RX TTL","RX size","Seen by raw socket","Seen by protocol socket"
+0,0,1378098827.420810,1378098827.867972,47,115,1,1
+1,1,1378098827.440811,1378098827.886144,47,115,1,1
+2,2,1378098827.460811,1378098827.906624,47,115,1,1
+3,3,1378098827.480812,1378098827.928123,47,115,1,1
+4,4,1378098827.500814,1378098827.945269,47,115,1,1
+5,5,1378098827.520815,1378098827.966947,47,115,1,1
+6,6,1378098827.540817,1378098827.988496,47,115,1,1
+12,1,2,sd;
+12,1,2,sd;
+12,1,2,sd;
+12,1,2,sd;
+7,7,1378098827.560819,1378098828.005946,47,115,1,1
+8,8,1378098827.580820,1378098828.027367,47,115,1,1
+9,9,1378098827.600822,1378098828.048623,47,115,1,1
+10,10,1378098827.620822,1378098828.066154,47,115,1,1

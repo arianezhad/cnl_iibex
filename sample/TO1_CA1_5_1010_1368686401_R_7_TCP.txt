@@ -1,0 +1,25 @@
+TCP RECEIVE LOG
+Experiment: 5
+Run: 1010
+Local beacon: TO1
+Local beacon hostname: beacon
+Local IP: 192.168.1.47
+Local port: 12000
+Local beacon software version: 1.5.4
+Remote beacon: CA1
+Remote IP: 142.104.81.77
+Configured remote port: 12000
+Actual remote port: 12000
+Start: Thu May 16 06:40:01 2013
+Mode: exchange TCP with remote beacon, remote beacon is initiator
+Socket listening time (seconds): 300
+Packets received: yes
+
+"RX sequence number","RX timestamp","RX size"
+0,1368686478.162505,1024
+1,1368686478.162559,1024
+12,12
+2,1368686478.164645,1024
+3,1368686478.179688,1024
+4,1368686478.194598,1024
+5,1368686478.801299,1024

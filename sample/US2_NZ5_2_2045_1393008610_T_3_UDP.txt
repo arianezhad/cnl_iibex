@@ -1,0 +1,32 @@
+UDP TRANSMIT LOG
+Experiment: 2
+Run: 2045
+Local beacon: US2
+Local beacon hostname: usbeacon2.iibex.rg.net
+Local IP: 198.180.150.52
+Local port: 8088
+Local beacon software version: 1.6.0
+Remote beacon: NZ5
+Remote IP: 130.216.197.109
+Remote port: 8088
+Start: Tue Jun  3 07:10:01 2014
+Mode: exchange UDP with remote beacon, remote beacon is initiator
+Socket timeout (seconds): 300
+Stuffing file used: /opt/Experiments/UDP/beacon.txt
+Nominal intertransmission time: 20
+Number of packets transmitted: 10000
+UDP payload size: 115
+
+"Packet number","Bytes","TX timestamp 1","TX timestamp 2","Loop iterations since last packet"
+0,115,1401779462.171492,1401779462.171526,54866382
+1,115,1401779462.191493,1401779462.191526,13620
+2,115,1401779462.211495,1401779462.211507,13681
+3,115,1401779462.231495,1401779462.231508,13814
+4,115,1401779462.251496,1401779462.251533,13758
+5,115,1401779462.271497,1401779462.271509,13643
+6,115,1401779462.291498,1401779462.291510,13722
+7,115,1401779462.311498,1401779462.311519,13587
+8,115,1401779462.331498,1401779462.331510,13740
+9,115,1401779462.351498,1401779462.351514,13765
+10,115,1401779462.371499,1401779462.371511,13662
+12,1,2
